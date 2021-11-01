@@ -1,0 +1,3 @@
+replicaCount: 1
+welcomeText: "Hello form staging"
+domain: "staging-1.data.net.management"
